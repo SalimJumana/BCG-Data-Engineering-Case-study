@@ -1,21 +1,13 @@
 ## Case Study:
 ### Dataset:
 Data Set folder has 6 csv files. Please use the data dictionary (attached in the mail) to understand the dataset and then develop your approach to perform below analytics.
-#### 1. Charges
-[Charges](/Data/Charges_use.csv)
-#### 1. Endorsements
-[Endorsements](Data/Endorse_use.csv)
-#### 1. Restrict
-[Restrict](Data/Restrict_use.csv)
-#### 1. Damages
-[Damages](Data/Damages_use.csv)
-#### 1. Primary Person
-[Primary Person](Data/Primary_Person_use.csv)
-#### 1. Unit
-[Unit](Data/Units_use.csv)
+#### 1. [Charges](/Data/Charges_use.csv)
+#### 1. [Endorsements](Data/Endorse_use.csv)
+#### 1. [Restrict](Data/Restrict_use.csv)
+#### 1. [Damages](Data/Damages_use.csv)
+#### 1. [Primary Person](Data/Primary_Person_use.csv)
+#### 1. [Unit](Data/Units_use.csv)
 
-Dataset:
-Data Set folder has 6 csv files. Please use the data dictionary (attached in the mail) to understand the dataset and then develop your approach to perform below analytics.
 ### Analytics: 
 a.	Application should perform below analysis and store the results for each analysis.
 1.	Analytics 1: Find the number of crashes (accidents) in which number of males killed are greater than 2?
