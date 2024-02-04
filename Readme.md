@@ -2,17 +2,17 @@
 ### Dataset:
 Data Set folder has 6 csv files. Please use the data dictionary (attached in the mail) to understand the dataset and then develop your approach to perform below analytics.
 #### 1. Charges
-![Charges](Images/img.png)
+![Charges](Data/Charges_use.csv)
 #### 1. Endorsements
-![Endorsements](Images/img_1.png)
+![Endorsements](Data/Endorse_use.csv)
 #### 1. Restrict
-![Restrict](Images/img_2.png)
+![Restrict](Data/Restrict_use.csv)
 #### 1. Damages
-![Damages](Images/img_3.png)
+![Damages](Data/Damages_use.csv)
 #### 1. Primary Person
-![Primary Person](Images/img_4.png)
+![Primary Person](Data/Primary_Person_use.csv)
 #### 1. Unit
-![Unit](Images/img_5.png)
+![Unit](Data/Units_use.csv)
 
 Dataset:
 Data Set folder has 6 csv files. Please use the data dictionary (attached in the mail) to understand the dataset and then develop your approach to perform below analytics.
